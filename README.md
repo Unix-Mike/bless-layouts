@@ -2,6 +2,8 @@
 ### Some colorful layouts for the Bless hex editor
 Note I only use Linux. 
 Requires nerd fonts. Specifically it uses SauceCodeProNerdFontMono.
+sudo pacman -S nerd-fonts
+(select all)
 You can use fc-list command to see what fonts you have installed. Use grep its a long list.
 
 INSTALL: Put these files in ~/.config/bless/layouts
