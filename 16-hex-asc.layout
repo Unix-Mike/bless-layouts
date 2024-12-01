@@ -1,0 +1,99 @@
+<layout>
+  <area type="offset">
+    <display>
+      <evenrow>
+        <evencolumn>
+          <foreground>blue</foreground>
+          <background>white</background>
+        </evencolumn>
+      </evenrow>
+      <oddrow>
+        <evencolumn>
+          <foreground>blue</foreground>
+          <background>#dddddd</background>
+        </evencolumn>
+      </oddrow>
+      <font>SauceCodeProNerdFontMono 14</font>
+    </display>
+  </area>
+
+  <area type="separator">
+    <display>
+      <evenrow>
+        <evencolumn>
+          <foreground>dark green</foreground>
+          <background>#ccffaa</background>
+        </evencolumn>
+      </evenrow>
+      <font>SauceCodeProNerdFontMono 14</font>
+    </display>
+  </area>
+
+  <area type="hexadecimal">
+    <case>upper</case>
+    <bpr>16</bpr>
+    <display>
+      <font>SauceCodeProNerdFontMono 14</font>
+      <evenrow>
+        <evencolumn>
+          <foreground>green</foreground>
+          <background>white</background>
+        </evencolumn>
+        <oddcolumn>
+          <foreground>black</foreground>
+        </oddcolumn>
+        <selectedcolumn>
+          <foreground>red</foreground>
+          <background>yellow</background>
+        </selectedcolumn>
+      </evenrow>
+      <oddrow>
+        <evencolumn>
+          <foreground>green</foreground>
+          <background>#dddddd</background>
+        </evencolumn>
+        <oddcolumn>
+          <foreground>black</foreground>
+          <background>#dddddd</background>
+        </oddcolumn>
+          <selectedcolumn>
+            <foreground>red</foreground>
+            <background>yellow</background>
+          </selectedcolumn>
+      </oddrow>
+    </display>
+  </area>
+
+  <area type="separator">
+    <display>
+      <evenrow>
+        <evencolumn>
+          <foreground>dark green</foreground>
+          <background>#ccffaa</background>
+        </evencolumn>
+      </evenrow>
+      <font>SauceCodeProNerdFontMono 14</font>
+    </display>
+  </area>
+
+  <area type="ascii">
+    <display>
+      <font>SauceCodeProNerdFontMono 14</font>
+      <evenrow>
+        <selectedcolumn>
+          <foreground>yellow</foreground>
+          <background>red</background>
+        </selectedcolumn>
+      </evenrow>
+      <oddrow>
+        <evencolumn>
+          <background>#dddddd</background>
+        </evencolumn>
+          <selectedcolumn>
+            <foreground>yellow</foreground>
+            <background>red</background>
+          </selectedcolumn>
+      </oddrow>
+    </display>
+  </area>
+</layout>
