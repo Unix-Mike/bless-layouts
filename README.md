@@ -1,5 +1,8 @@
 # bless-layouts
 ### Some colorful layouts for the Bless hex editor
+Note I only use Linux. Requires nerd fonts. Specifically it uses SauceCodeProNerdFontMono.
+Make sure your window is stretched wide enough for the data or it gets truncated.
+You can use fc-list command to see what fonts you have installed. Use grep its a long list.
 
 ## 8 column Hexadecimal, Decimal, and ASCII formats
 ![8-hex-dec-asc](https://github.com/user-attachments/assets/81095bad-25ba-420a-b93e-38ce016e8ab6)
